@@ -1,0 +1,46 @@
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+E:\VB2017\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+E:\VB2017\Chap01\Data\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.cache
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.CoreCompileInputs.cache
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+C:\VB2019\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb

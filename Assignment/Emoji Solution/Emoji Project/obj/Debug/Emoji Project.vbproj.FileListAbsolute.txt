@@ -1,0 +1,46 @@
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+E:\VB2017\Chap01\Data\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.cache
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.CoreCompileInputs.cache
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+C:\VB2019\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe.config
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\bin\Debug\Emoji Project.xml
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.frmMain.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji_Project.Resources.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.xml
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\Emoji Solution\Emoji Project\obj\Debug\Emoji Project.pdb

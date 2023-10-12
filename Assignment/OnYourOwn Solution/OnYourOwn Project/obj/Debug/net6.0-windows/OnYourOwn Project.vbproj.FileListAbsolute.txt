@@ -1,0 +1,18 @@
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\bin\Debug\net6.0-windows\OnYourOwn Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\bin\Debug\net6.0-windows\OnYourOwn Project.deps.json
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\bin\Debug\net6.0-windows\OnYourOwn Project.runtimeconfig.json
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\bin\Debug\net6.0-windows\OnYourOwn Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\bin\Debug\net6.0-windows\OnYourOwn Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.AssemblyInfo.vb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\refint\OnYourOwn Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn Project.genruntimeconfig.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\ref\OnYourOwn Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn_Project.Resources.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\OnYourOwn Solution\OnYourOwn Project\obj\Debug\net6.0-windows\OnYourOwn_Project.frmMain.resources

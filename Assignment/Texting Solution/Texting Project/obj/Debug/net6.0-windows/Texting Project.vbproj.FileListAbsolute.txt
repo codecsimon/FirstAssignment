@@ -1,0 +1,36 @@
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\bin\Debug\net6.0-windows\Texting Project.exe
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\bin\Debug\net6.0-windows\Texting Project.deps.json
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\bin\Debug\net6.0-windows\Texting Project.runtimeconfig.json
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\bin\Debug\net6.0-windows\Texting Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\bin\Debug\net6.0-windows\Texting Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting_Project.Form1.resources
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.AssemblyInfo.vb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\refint\Texting Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.pdb
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting Project.genruntimeconfig.cache
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\ref\Texting Project.dll
+C:\Users\pc\Desktop\Zak_ProgwMSVisualBasic_9e_DataFiles\VB9e\Chap01\quiz8\sjk\Texting Solu tion\Texting Project\obj\Debug\net6.0-windows\Texting_Project.Resources.resources
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting_Project.Resources.resources
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.AssemblyInfo.vb
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting Project.genruntimeconfig.cache
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\Texting_Project.frmMain.resources
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\bin\Debug\net6.0-windows\TextMessageSymbols.exe
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\bin\Debug\net6.0-windows\TextMessageSymbols.deps.json
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\bin\Debug\net6.0-windows\TextMessageSymbols.runtimeconfig.json
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\bin\Debug\net6.0-windows\TextMessageSymbols.dll
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\bin\Debug\net6.0-windows\TextMessageSymbols.pdb
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\TextMessageSymbols.dll
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\refint\TextMessageSymbols.dll
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\TextMessageSymbols.pdb
+C:\Users\pc\Desktop\Wamaitho\Texting Solution\Texting Project\obj\Debug\net6.0-windows\ref\TextMessageSymbols.dll
